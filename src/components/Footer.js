@@ -2,10 +2,10 @@ function Footer() {
   return (
     <footer>
       <div className="footerText">
-        <h4>Made by Chad J Campbell</h4>
+        <h4>Made by antoine phiri</h4>
         <h4 className="footerText2">
           Check out my GitHub 👉
-          <a href="https://github.com/chadjcampbell">
+          <a href="https://github.com/>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
